@@ -32,7 +32,6 @@
 ![typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Chatgpt](https://img.shields.io/badge/-Chatgpt-0D1117?style=for-the-badge&logo=Chatgpt&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
 ![typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
